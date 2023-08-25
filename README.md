@@ -25,7 +25,7 @@ This project was inspired by the need for a simple and secure password generator
 
 Check out the Demo video to see it in action and let me know what you think! 🤔
 
-Demo Link :- https://drive.google.com/file/d/19YHG3p2HJQ6r18Ve31-yRbsU5Bg7wdgD/view?usp=share_link
+Demo Link :- 
 
 ## Tech Stack
 
@@ -63,8 +63,7 @@ Some Resources:-
 
 Contributions are always welcome!
 
-This project was created by **Anand Jasal** . If you have any feedback or suggestions, please contact me at **anandjasal3636@gmail.com
-** .
+This project was created by **Anand Jasal** . If you have any feedback or suggestions, please contact me at **anandjasal3636@gmail.com** .
 
 
 ## 🚀 About Me
